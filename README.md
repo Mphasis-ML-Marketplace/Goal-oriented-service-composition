@@ -1,0 +1,14 @@
+# Goal oriented service composition
+The solution understands the goal from a user's service request and provides a plan by composing the business services (APIs)
+
+## Product Overview
+GenAI based chatbots require planning to orchestrate APIs (or tools) to accomplish a user's request. Traditionally user journeys and dialogue designs were fixed with NLP models indentifying  user intents. With Generative AI models, the ability to create diagloue flows on the go is possible. This requires undersaning user's goals and breaking them down to steps to execute. Users can leverage our solution to create dynamic plans of execution. Our solution leverages the capabilities of Anthropic's Claude to  determine required APIs and the order in which they have to be called to achieve user's request to the LLM chatbot. The model takes OpenAPI schema and the given user query as input. Users benefit from streamlined, accurate API interactions, saving time and effort while ensuring efficient, reliable responses to complex queries. It also allows users to customize plans by providing specific instructions and counter examples for the model to follow.
+
+## Product Highlights 
+
+* Users can leverage our solution to customize workflows to their specific requirements and orchestrate dynamic workflows without having to manually create rules and logic flows of the services involved. This provides flexibility in executing business-specific workflows reducing manual overhead. Users can also handle complex workflows seamlessly, allowing for scalable solutions that can adapt to different requirements and changes in the API schema. 
+* Our solution enhances reliability by ensuring accurate responses because it enables structured data retrieval. Integration with external tools via JSON Schema facilitates seamless interactions. By generating a plan for API calls, the solution minimizes the risk of errors that can occur from incorrect sequencing or missing dependencies between API calls. This approach improves user experience by providing more relevant responses. Additionally, automating tasks saves time and costs by reducing manual intervention.
+* The Mphasis AI for Software Development service enables enterprises to build customized no-code/low-code solutions to accelerate development and deployment of software. We leverage our patented AI/ML platforms and frameworks to engage with clients across multiple use cases: intelligent code recommendation, rapid prototyping etc. We help enterprises target impactful AI/ML interventions that drive business benefits. Our Assessments, Workshops and Implementations identify the most relevant use cases in software engineering and outline the potential benefits such as efficiency, cost and innovation.
+
+## Amazon Marketplace Link
+The product can be found [here]().
