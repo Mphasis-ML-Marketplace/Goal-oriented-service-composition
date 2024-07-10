@@ -11,4 +11,4 @@ GenAI based chatbots require planning to orchestrate APIs (or tools) to accompli
 * The Mphasis AI for Software Development service enables enterprises to build customized no-code/low-code solutions to accelerate development and deployment of software. We leverage our patented AI/ML platforms and frameworks to engage with clients across multiple use cases: intelligent code recommendation, rapid prototyping etc. We help enterprises target impactful AI/ML interventions that drive business benefits. Our Assessments, Workshops and Implementations identify the most relevant use cases in software engineering and outline the potential benefits such as efficiency, cost and innovation.
 
 ## Amazon Marketplace Link
-The product can be found [here]().
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-rvbahlt24iywo).
